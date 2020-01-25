@@ -1,0 +1,112 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  text-align: center;
+}
+header{
+  background-color: #EAF6F6;
+}
+section{
+  padding: 100px 0;
+}
+h1{
+  font-size: 2rem;
+  color: #66BFBF;
+  margin-bottom: 25px;
+}
+h2,h3{
+  color: #66BFBF;
+  margin-bottom: 25px;
+}
+.main{
+  padding: 100px 0 0 0;
+}
+.title{
+  font-size: 5.2rem;
+  color: #66BFBF;
+}
+.me{
+  margin-bottom: 50px;
+  border-radius: 50px;
+  width: 15%;
+}
+hr{
+  border: none;
+  border-top: 7px dotted grey;
+  width: 10%;
+  margin: 0 auto;
+}
+.des{
+  width: 30%;
+  margin: 0 auto;
+  line-height: 2;
+}
+.tag{
+  font-size: 2rem;
+  color: #66BFBF;
+}
+.top-cloud{
+  position: absolute;
+  right: 22%;
+  top: 10%;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 29%;
+  top: 40%;
+}
+.skills{
+  width: 50%;
+  margin: 0 auto;
+}
+.skill-row{
+  margin: 100px 0;
+}
+.skill-row h2{
+  text-align: left;
+}
+.skills img{
+  width: 25%;
+}
+.skills p{
+  margin-top: 10px;
+  text-align: left;
+  line-height: 1.7;
+}
+.img1{
+  float: left;
+  margin-right: 20px;
+  border-radius: 100px;
+}
+.img2{
+  float: right;
+}
+.get{
+  width: 40%;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+.btn{
+  color: white;
+  background-color: #66BFBF;
+  border-radius: 5px;
+  text-decoration: none;
+  font-size: 20px;
+  padding: 15px;
+}
+footer{
+  background-color:#66BFBF;
+  padding: 100px;
+}
+footer a{
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 40px;
+}
+footer p{
+  margin-top: 20px;
+  color: white;
+
+}
